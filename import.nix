@@ -3,6 +3,7 @@
 {
   imports = [
     ./docs.nix
+    ./fonts.nix
     ./hardware.nix
     ./time.nix
   ];
